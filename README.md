@@ -58,12 +58,12 @@ POST /favorites <br/>
 
 body:
 
-{
-"name":
-"pages":
-"author":
-"userId":
-}
+{<br/>
+"name":<br/>
+"pages":<br/>
+"author":<br/>
+"userId":<br/>
+}<br/>
 
 ### Lista de favoritos
 
