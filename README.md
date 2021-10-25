@@ -4,7 +4,7 @@ Esse é o repositório com uma base de uma API de Biblioteca, onde existem varia
 
 
 
-Link da API: https://library-fav.herokuapp.com/
+Link da API: https://library-fav.herokuapp.com
 
 ## Endpoints
 
