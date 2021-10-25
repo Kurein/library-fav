@@ -16,12 +16,12 @@ POST /register <br/>
 
 body:
 
-{
-"email":
-"password":
-"name":
-"age":
-}
+{ <br/>
+"email":<br/>
+"password":<br/>
+"name":<br/>
+"age":<br/>
+}<br/>
 
 ### Login
 
@@ -31,10 +31,10 @@ POST /login <br/>
 
 body:
 
-{
-"email":
-"password":
-}
+{<br/>
+"email":<br/>
+"password":<br/>
+}<br/>
 
 <h2 align ='center'> Endpoints que não precisam de uma autenticação </h2>
 
