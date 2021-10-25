@@ -2,6 +2,10 @@
 
 Esse é o repositório com uma base de uma API de Biblioteca, onde existem variados livros que podem ser colocados em uma lista de favoritos de cada usuário
 
+
+
+Link da API: https://library-fav.herokuapp.com/
+
 ## Endpoints
 
 A API conta com um total de 6 Endpoits sendo eles relacionados com: criação de usuário, registrar, logar, ver a biblioteca, adicionar livro na lista de favoritos, ver a lista de favoritos
